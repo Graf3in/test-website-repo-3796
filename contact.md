@@ -1,6 +1,5 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+L'Atelier pensorium Graféine est joignable ici :
+[info@graf3in.org](mailto:info@graf3in.org)
