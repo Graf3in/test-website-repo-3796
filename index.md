@@ -1,6 +1,6 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# L'Atelier pensorium Graféine
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+L'Atelier pensorium Graféine est **un projet** qui a pour objet d'être un espace de création•s, de réflexion•s et de diffusion•s d'objet•s, oeuvre•s, écrits autour de sujet•s de société.  Formé à la **socio-anthropologie** et passionné par cette discipline, l'atelier a pour ambition de participer au•x débat•s contemporain•s.
