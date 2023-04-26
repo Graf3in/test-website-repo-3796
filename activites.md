@@ -9,4 +9,4 @@ A titre indicatif, les activités commerciales possibles sont (liste non-exhaust
 
 - Accompagnement au•x **changement•s**
 - Conception et développement **d'objet•s documentaires**
--*Edition* de carnet•s, livre•s, pamphlet•s.
+- **Edition** de carnet•s, livre•s, pamphlet•s.
